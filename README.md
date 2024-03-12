@@ -17,6 +17,7 @@
   <img align="center" alt="Piripa-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Piripa-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Piripa-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Piripa-SQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
 </div>
 
 ##
