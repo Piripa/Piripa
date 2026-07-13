@@ -21,7 +21,8 @@
 <p align="center">
   <b>Linguagens</b><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg" title="Java" alt="Java" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/golang-original.svg" title="Go" alt="Go" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="40"/>
 </p>
